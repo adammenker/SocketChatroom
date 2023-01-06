@@ -1,0 +1,9 @@
+
+
+
+BUGS:
+	- file path for console compilation is: resources/users.txt
+		but for idea run button it is: src/resources/users.txt
+
+
+CHANGE BACK TO CONSOLE FILE PATH BEFORE SUBMISSION!!!!
